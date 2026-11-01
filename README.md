@@ -4,7 +4,6 @@
 
 안녕하세요, 구글 팀 여러분! / Hello, Google Team!
 
-저는 대한민국 부산광역시 동래구 사직동에 살고 있는 초등학교 5학년 이정후입니다. 세상을 더 깨끗하고 따뜻하게 만들고 싶어 저만의 과학 발명 아이디어를 제안합니다.
 
 (My name is Jeong-hu Lee, a 5th-grade student living in Sajik-dong, Dongnae-gu, Busan, South Korea. I would like to propose my scientific invention idea to make the world cleaner and warmer.)
 
@@ -22,7 +21,7 @@
 
 에너지 모금 및 기부 (Energy Collection & Donation): 사람들의 작고 소중한 터치가 모여 만들어진 전기는 6·25 한국전쟁 해외 참전용사분들과 경제적으로 어려운 이웃들을 돕는 기부금과 에너지로 환산되어 전달됩니다. (The electric energy gathered from thousands of people's touches will be converted into donations and energy supplies to help Korean War veterans and underprivileged communities worldwide.)
 
-비록 저는 아직 초등학교 5학년이지만, 구글의 첨단 기술과 저의 따뜻한 아이디어가 만난다면 세상에 큰 긍정적인 변화를 만들어낼 수 있다고 믿습니다. 제 아이디어를 읽어주셔서 감사합니다!
+비록 저는 아직 초등학생이지만, 구글의 첨단 기술과 저의 따뜻한 아이디어가 만난다면 세상에 큰 긍정적인 변화를 만들어낼 수 있다고 믿습니다. 제 아이디어를 읽어주셔서 감사합니다!
 
 (Although I am currently a 5th-grade student, I strongly believe that combining Google's advanced technology with my idea can create a huge positive impact on the world. Thank you for reading my proposal!)
 
