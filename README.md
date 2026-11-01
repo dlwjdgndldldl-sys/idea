@@ -5,8 +5,6 @@
 안녕하세요, 구글 팀 여러분! / Hello, Google Team!
 
 
-(My name is Jeong-hu Lee, a 5th-grade student living in Sajik-dong, Dongnae-gu, Busan, South Korea. I would like to propose my scientific invention idea to make the world cleaner and warmer.)
-
 1. 아이디어 개요 / Idea Overview
 
 사람들이 많이 이용하는 공공장소에 '자동세척(UV/소독) 기능이 있는 터치 패널'을 설치합니다. 사람들이 안심하고 손으로 패널을 터치하면, 그 압력과 마찰에서 미세한 전기 에너지(에너지 하베스팅)가 생성됩니다.
