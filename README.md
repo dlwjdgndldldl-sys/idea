@@ -21,7 +21,3 @@
 
 비록 저는 아직 초등학생이지만, 구글의 첨단 기술과 저의 따뜻한 아이디어가 만난다면 세상에 큰 긍정적인 변화를 만들어낼 수 있다고 믿습니다. 제 아이디어를 읽어주셔서 감사합니다!
 
-(Although I am currently a 5th-grade student, I strongly believe that combining Google's advanced technology with my idea can create a huge positive impact on the world. Thank you for reading my proposal!)
-
-제안자 / Proposed by: 이정후 (Jeong-hu Lee / 5th Grade Student, Sajik-dong, Dongnae-gu, Busan, South Korea) 
-
